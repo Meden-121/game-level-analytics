@@ -1,0 +1,17 @@
+# Raw data folder
+Data/
+
+# Generated files
+level_end_raw.csv
+level_full_metrics.csv
+
+# Notebook cache
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+venv/
+.env
