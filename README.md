@@ -1,5 +1,4 @@
-﻿# Game Analytics — Level Performance & Player Behavior
-
+﻿# Game Product Analytics — Level Difficulty & Player Behavior
 > **Context:** Intern screening test — End-to-end data analysis pipeline to identify problematic game levels and design appropriate visualizations for monitoring.
 
 ---
